@@ -231,8 +231,8 @@
     </profiles>
 	<distributionManagement> 
 		<snapshotRepository>
-			<id>repository-example-assist</id>
-			<url>http://52.117.32.56:8081/repository/repository-example-assist/</url>
+			<id>example-fabian</id>
+			<url>http://52.117.32.56:8081/repository/example-fabian/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
